@@ -1,0 +1,17 @@
+# Ignore PyCharm settings
+.idea/
+
+# Ignore virtual environment
+.venv/
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Environment/config files
+.env
+*.log
+
+# OS/system files
+.DS_Store
+Thumbs.db
